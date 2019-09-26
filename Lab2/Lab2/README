@@ -1,0 +1,5 @@
+Move re l2_learning file to pox and the firewall-policies.csv file to pox aswell to see the change in mac adresses
+
+The ./run.sh command starts row terminals together which then initiates the mininet and controller where the commands are entered.
+
+Typing pingall in mininet will show the dropped packets.
